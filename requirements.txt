@@ -10,11 +10,12 @@ jsonify==0.5
 MarkupSafe==1.1.1
 numpy==1.19.0
 requests==2.24.0
-scikit-learn==0.23.1
+scikit-learn==0.24.2
 scipy==1.6.3
-sklearn==0.0
+sklearn==1.6.3
 threadpoolctl==2.1.0
 urllib3==1.26.5
 Werkzeug==1.0.1
 wincertstore==0.2
+pickel
 gunicorn
