@@ -144,5 +144,4 @@ Werkzeug==2.0.1
 wrapt==1.12.1
 zope.interface==5.4.0
 flask==2.0.1
-requests==2.26.0
 jsonify==0.5
